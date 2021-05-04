@@ -5,3 +5,11 @@
 a {
     color: orangered;
 }
+
+.contacts li a.twitter:hover {
+    color: #1EA1F2;
+}
+
+.contacts li a.instagram:hover {
+    color: #EC2077;
+}
