@@ -1,0 +1,15 @@
+.container {
+    background-color: rgba(255, 166, 0, 0.644);
+}
+
+a {
+    color: orangered;
+}
+
+.contacts li a.twitter:hover {
+    color: #1EA1F2;
+}
+
+.contacts li a.instagram:hover {
+    color: #EC2077;
+}
